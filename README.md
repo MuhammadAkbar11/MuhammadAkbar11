@@ -46,9 +46,10 @@
 <details>
 <summary>My GitHub Stats <i>(click to expand)</i> </summary>
 <p align="left" >
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Akbar's Github readme stats">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAkbar11&theme=radical&hide_border=false" alt="MuhammadAkbar11"/>
-     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="MuhammadAkbar11's top use lang"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MuhammadAkbar11&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="Akbar's Github readme stats">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAkbar11&theme=radical&hide_border=true" alt="MuhammadAkbar11"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="MuhammadAkbar11's top use lang"/>
+     <img height="250px" src="https://activity-graph.herokuapp.com/graph?username=MuhammadAkbar11&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </p>
 </details>
 <br/>
@@ -64,12 +65,14 @@
 <br />
 <p align="center">
   <img height="19.5px" src="https://visitcount.itsvg.in/api?id=MuhammadAkbar11&icon=2&color=12" alt="muhammadakbar11"/><a href="https://github.com/muhammadakbar11/muhammadakbar11/pulse" alt="Activity">
-    <img src="https://img.shields.io/github/commit-activity/m/muhammadakbar11/muhammadakbar11" />
+    <img src="https://img.shields.io/github/commit-activity/m/muhammadakbar11/muhammadakbar11?style=flat-square&color=E5E5E5" />
   </a>
   <a href="https://github.com/muhammadAkbar11?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/muhammadAkbar11?color=4C1&logo=github">
+    <img alt="Followers" src="https://img.shields.io/github/followers/muhammadAkbar11?color=E5E5E5&logo=github&style=flat-square">
   </a>
   <a href="https://github.com/muhammadAkbar11/muhammadAkbar11" target="_blank">
-    <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/muhammadAkbar11/muhammadAkbar11?label=Profile%20update&style=fflat-square">
+    <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/muhammadAkbar11/muhammadAkbar11?label=Profile%20update&style=flat-square&color=E5E5E5">
   </a>
 </p>
+
+
