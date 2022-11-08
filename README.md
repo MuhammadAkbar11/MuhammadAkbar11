@@ -45,7 +45,7 @@
 
 <details>
 <summary>My GitHub Stats <i>(click to expand)</i> </summary>
-<p align="left" style="margin-top: 2rem; display: flex; flex-wrap: wrap; justify-content: start; gap: 1rem" >
+<p align="left" >
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Akbar's Github readme stats">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAkbar11&theme=radical&hide_border=false" alt="MuhammadAkbar11"/>
      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammadAkbar11's top use lang"/>
@@ -54,7 +54,7 @@
 <br/>
 <details>
 <summary>Most use <i>(click to expand)</i> </summary>
-<p align="center" style="margin-top: 2rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem" >
+<p align="left">
      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammadAkbar11's top use lang"/>
 </p>
 </details>
