@@ -1,6 +1,6 @@
 # Welcome to my page!
 
-#### Hi, I'am  Muhammad Akbar! I am a web developer specially in Fullstack Javascript.
+#### Hi, I'am  Muhammad Akbar! a web developer specially in Fullstack Javascript.
 
 ### My Tech Stack :
 
