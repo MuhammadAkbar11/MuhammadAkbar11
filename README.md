@@ -7,7 +7,7 @@
 
 ### My Tech Stack :
 
-<p style="margin-bottom: 1px; margin-top: 8px;" >
+<div >
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=javascript" target="_blank"><img alt="JS" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=typescript" target="_blank"><img alt="TS" src="https://img.shields.io/badge/Typescript-%23323330.svg?style=flat-square&logo=typescript&logoColor=#23007ACC"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=react" target="_blank"><img alt="React.js" src="https://img.shields.io/badge/React.js-%23323330.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
@@ -15,8 +15,8 @@
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=node" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node-%23323330.svg?style=flat-square&logo=node.js&logoColor=6DA55F"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=express" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23323330.svg?style=flat-square&logo=express&logoColor=#f5f5f5"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=socket" target="_blank"><img alt="SocketIO" src="https://img.shields.io/badge/Socket.io-%23323330.svg?style=flat-square&logo=socket.io&logoColor=%010101"></a>
-</p>
-<p style="margin-bottom: 1px;">
+</div>
+<div >
    <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23323330.svg?style=flat-square&logo=html5&logoColor=%23E34F26"></a>
    <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%23323330.svg?style=flat-square&logo=css3&logoColor=%231572B6"></a>
    <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=scss" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/Sass-%23323330.svg?style=flat-square&logo=sass&logoColor=%23BF4080"></a>
@@ -24,29 +24,26 @@
    <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=tailwindcss" target="_blank"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-%23323330.svg?style=flat-square&logo=tailwindcss&logoColor=%2338B2AC"></a>
    <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=styled-components" target="_blank"><img alt="Styled Component" src="https://img.shields.io/badge/Styled--components-%23323330.svg?style=flat-square&logo=styled-components&logoColor=DB7093"></a>
    <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=mui" target="_blank"><img alt="MUI" src="https://img.shields.io/badge/MUI-%23323330.svg?style=flat-square&logo=MUI&logoColor=%230081CB"></a>
-</p>
+</div>
 
-<p style="margin-bottom: 1px;" >
+<div>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=mongodb" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=flat-square&logo=mongodb&logoColor=%234ea94b"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=mysql" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23323330.svg?style=flat-square&logo=mysql&logoColor=ffbc14"></a>
-</p>
-<p >
+</div>
+<div>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=yarn" target="_blank"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-%23323330.svg?style=flat-square&logo=yarn&logoColor=%232C8EBB"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=webpack" target="_blank"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-%23323330.svg?style=flat-square&logo=webpack&logoColor=%238DD6F9"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=vite" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite.js-%23323330.svg?style=flat-square&logo=vite&logoColor=FFB60E"></a>
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=vite" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23323330.svg?style=flat-square&logo=postman&logoColor=FF6C37"></a>
-</p>
+</div>
+
+<br />
 
 ### Reach Me :
 
-<div style="display: flex; gap: 0.5rem; ">
-  <h4>
-    <a href="https://linkedin.com/in/muhammadakbarletlet" target="_blank" >LinkedIn</a>
-  </h4>
-  <h4>|</h4>
-  <h4>
-    <a href="https://muhammad-akbar.herokuapp.com" target="_blank" >Website</a>
-  </h4>
+<div >
+  <a href="https://linkedin.com/in/muhammadakbarletlet" target="_blank" >LinkedIn</a> | <a href="https://muhammad-akbar.herokuapp.com" target="_blank" >Website</a>
+
 </div>
 
 <br />
