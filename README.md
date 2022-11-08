@@ -41,6 +41,7 @@
 
 </div>
 
+<br />
 
 <details>
 <summary>My GitHub Stats <i>(click to expand)</i> </summary>
