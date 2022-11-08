@@ -1,9 +1,6 @@
 # Welcome to my page!
 
-### Hi, I'am  Muhammad Akbar! I am a web developer specially in Fullstack Javascript.
-
-
-<br />
+#### Hi, I'am  Muhammad Akbar! I am a web developer specially in Fullstack Javascript.
 
 ### My Tech Stack :
 
@@ -37,8 +34,6 @@
   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=vite" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23323330.svg?style=flat-square&logo=postman&logoColor=FF6C37"></a>
 </div>
 
-<br />
-
 ### Reach Me :
 
 <div >
@@ -46,7 +41,6 @@
 
 </div>
 
-<br />
 
 <details>
 <summary>My GitHub Stats <i>(click to expand)</i> </summary>
