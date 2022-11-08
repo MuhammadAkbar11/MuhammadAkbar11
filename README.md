@@ -1,18 +1,89 @@
-## 👋 Hey! Nice to see you
+# Welcome to my page!
 
-Welcome to my page! <br> My name is Muhammad Akbar L, I’m a Web Developer from Bekasi, Indonesia
-
-## 🌐 Socials:
-
-<a href="https://linkedin.com/in/muhammadakbarletlet" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white" /></a> <a href="https://muhammad-akbar.herokuapp.com" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-%23f20070?style=for-the-badge&logoColor=white" /></a>
+### Hi, I'am  Muhammad Akbar! I am a web developer specially in Fullstack Javascript.
 
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/sass-%23BF4080.svg?style=for-the-badge&logo=sass&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br />
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAkbar11&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### My Tech Stack :
+
+<p style="margin-bottom: 1px; margin-top: 8px;" >
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=javascript" target="_blank"><img alt="JS" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=typescript" target="_blank"><img alt="TS" src="https://img.shields.io/badge/Typescript-%23323330.svg?style=flat-square&logo=typescript&logoColor=#23007ACC"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=react" target="_blank"><img alt="React.js" src="https://img.shields.io/badge/React.js-%23323330.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=next" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23323330.svg?style=flat-square&logo=next.js&logoColor=white"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=node" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node-%23323330.svg?style=flat-square&logo=node.js&logoColor=6DA55F"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=express" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23323330.svg?style=flat-square&logo=express&logoColor=#f5f5f5"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=socket" target="_blank"><img alt="SocketIO" src="https://img.shields.io/badge/Socket.io-%23323330.svg?style=flat-square&logo=socket.io&logoColor=%010101"></a>
+</p>
+<p style="margin-bottom: 1px;">
+   <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23323330.svg?style=flat-square&logo=html5&logoColor=%23E34F26"></a>
+   <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%23323330.svg?style=flat-square&logo=css3&logoColor=%231572B6"></a>
+   <a href="https://github.com/MuhammadAkbar11?tab=repositories&language=scss" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/Sass-%23323330.svg?style=flat-square&logo=sass&logoColor=%23BF4080"></a>
+   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=bootstrap" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23323330.svg?style=flat-square&logo=bootstrap&logoColor=%237431FA"></a>
+   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=tailwindcss" target="_blank"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-%23323330.svg?style=flat-square&logo=tailwindcss&logoColor=%2338B2AC"></a>
+   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=styled-components" target="_blank"><img alt="Styled Component" src="https://img.shields.io/badge/Styled--components-%23323330.svg?style=flat-square&logo=styled-components&logoColor=DB7093"></a>
+   <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=mui" target="_blank"><img alt="MUI" src="https://img.shields.io/badge/MUI-%23323330.svg?style=flat-square&logo=MUI&logoColor=%230081CB"></a>
+</p>
+
+<p style="margin-bottom: 1px;" >
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=mongodb" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=flat-square&logo=mongodb&logoColor=%234ea94b"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=mysql" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23323330.svg?style=flat-square&logo=mysql&logoColor=ffbc14"></a>
+</p>
+<p >
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=yarn" target="_blank"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-%23323330.svg?style=flat-square&logo=yarn&logoColor=%232C8EBB"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=webpack" target="_blank"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-%23323330.svg?style=flat-square&logo=webpack&logoColor=%238DD6F9"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=vite" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite.js-%23323330.svg?style=flat-square&logo=vite&logoColor=FFB60E"></a>
+  <a href="https://github.com/MuhammadAkbar11?tab=repositories&q=vite" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23323330.svg?style=flat-square&logo=postman&logoColor=FF6C37"></a>
+</p>
+
+### Reach Me :
+
+<div style="display: flex; gap: 0.5rem; ">
+  <h4>
+    <a href="https://linkedin.com/in/muhammadakbarletlet" target="_blank" >LinkedIn</a>
+  </h4>
+  <h4>|</h4>
+  <h4>
+    <a href="https://muhammad-akbar.herokuapp.com" target="_blank" >Website</a>
+  </h4>
+</div>
+
+<br />
+
+<details>
+<summary>My GitHub Stats <i>(click to expand)</i> </summary>
+<p align="left" style="margin-top: 2rem; display: flex; flex-wrap: wrap; justify-content: start; gap: 1rem" >
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Akbar's Github readme stats">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAkbar11&theme=radical&hide_border=false" alt="MuhammadAkbar11"/>
+     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammadAkbar11's top use lang"/>
+</p>
+</details>
+<br/>
+<details>
+<summary>Most use <i>(click to expand)</i> </summary>
+<p align="center" style="margin-top: 2rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem" >
+     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammadAkbar11's top use lang"/>
+</p>
+</details>
+<br/>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAkbar11" alt="MuhammadAkbar11"/>
+  <!-- <img src="https://gpvc.arturio.dev/muhammadAkbar11" alt="muhammadakbar11"/> -->
+  <a href="https://github.com/muhammadakbar11/muhammadakbar11/pulse" alt="Activity">
+    <img src="https://img.shields.io/github/commit-activity/m/muhammadakbar11/muhammadakbar11" />
+  </a>
+  <a href="https://github.com/muhammadAkbar11?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/muhammadAkbar11?color=4C1&logo=github">
+  </a>
+  <a href="https://github.com/muhammadAkbar11/muhammadAkbar11" target="_blank">
+    <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/muhammadAkbar11/muhammadAkbar11?label=Profile%20update&style=fflat-square">
+  </a>
+</p>
+
+
 
 
