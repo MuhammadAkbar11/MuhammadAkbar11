@@ -48,23 +48,23 @@
 <p align="left" >
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Akbar's Github readme stats">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAkbar11&theme=radical&hide_border=false" alt="MuhammadAkbar11"/>
-     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammadAkbar11's top use lang"/>
+     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="MuhammadAkbar11's top use lang"/>
 </p>
 </details>
 <br/>
 <details>
-<summary>Most use <i>(click to expand)</i> </summary>
+<summary>My GitHub Trophies <i>(click to expand)</i> </summary>
 <p align="left">
-     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammadAkbar11's top use lang"/>
+     <img height="200px" src="https://github-profile-trophy.vercel.app/?username=MuhammadAkbar11&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="MuhammadAkbar11's Github Troph"/>
 </p>
 </details>
 <br/>
 
-
-
+---
+<br />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAkbar11" alt="MuhammadAkbar11"/>
-  <!-- <img src="https://gpvc.arturio.dev/muhammadAkbar11" alt="muhammadakbar11"/> -->
+  <img height="19.5px" src="https://visitcount.itsvg.in/api?id=MuhammadAkbar11&icon=2&color=12" alt="muhammadakbar11"/>
+
   <a href="https://github.com/muhammadakbar11/muhammadakbar11/pulse" alt="Activity">
     <img src="https://img.shields.io/github/commit-activity/m/muhammadakbar11/muhammadakbar11" />
   </a>
@@ -75,7 +75,3 @@
     <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/muhammadAkbar11/muhammadAkbar11?label=Profile%20update&style=fflat-square">
   </a>
 </p>
-
-
-
-
