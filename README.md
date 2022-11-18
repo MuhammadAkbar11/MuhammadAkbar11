@@ -64,7 +64,7 @@
 ---
 <br />
 <p align="center">
-  <img height="19.5px" src="https://visitcount.itsvg.in/api?id=MuhammadAkbar11&icon=2&color=12" alt="muhammadakbar11"/><a href="https://github.com/muhammadakbar11/muhammadakbar11/pulse" alt="Activity">
+  <!-- <img height="19.5px" src="https://visitcount.itsvg.in/api?id=MuhammadAkbar11&icon=2&color=12" alt="muhammadakbar11"/><a href="https://github.com/muhammadakbar11/muhammadakbar11/pulse" alt="Activity"> -->
     <img src="https://img.shields.io/github/commit-activity/m/muhammadakbar11/muhammadakbar11?style=flat-square&color=E5E5E5" />
   </a>
   <a href="https://github.com/muhammadAkbar11?tab=followers">
