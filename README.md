@@ -49,7 +49,7 @@
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MuhammadAkbar11&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="Akbar's Github readme stats">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAkbar11&theme=radical&hide_border=true" alt="MuhammadAkbar11"/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAkbar11&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="MuhammadAkbar11's top use lang"/>
-     <img height="250px" src="https://activity-graph.herokuapp.com/graph?username=MuhammadAkbar11&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+     <img height="250px" src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadAkbar11&theme=rogue" alt="GitHub Commits Graph" />
 </p>
 </details>
 <br/>
