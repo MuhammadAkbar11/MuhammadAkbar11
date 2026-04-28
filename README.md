@@ -1,4 +1,4 @@
-# Welcome to my page! (Try to comeback soon)
+# Welcome to my page! [I'm Back :)]
 
 #### Hi, I'am  Muhammad Akbar! a web developer specially in Fullstack Javascript.
 
@@ -37,8 +37,7 @@
 ### Reach Me :
 
 <div >
-  <a href="https://linkedin.com/in/muhammadakbarletlet" target="_blank" >LinkedIn</a> | <a href="https://muhammad-akbar.herokuapp.com" target="_blank" >Website</a>
-
+   <a href="https://muhammadakbar11.xyz" target="_blank" >Website</a>
 </div>
 
 <br />
